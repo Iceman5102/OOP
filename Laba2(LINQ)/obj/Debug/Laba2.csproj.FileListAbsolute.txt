@@ -1,0 +1,6 @@
+C:\Users\hru\Desktop\OOP\Laba2(LINQ)\bin\Debug\№2.exe.config
+C:\Users\hru\Desktop\OOP\Laba2(LINQ)\bin\Debug\№2.exe
+C:\Users\hru\Desktop\OOP\Laba2(LINQ)\bin\Debug\№2.pdb
+C:\Users\hru\Desktop\OOP\Laba2(LINQ)\obj\Debug\Laba2.csprojResolveAssemblyReference.cache
+C:\Users\hru\Desktop\OOP\Laba2(LINQ)\obj\Debug\№2.exe
+C:\Users\hru\Desktop\OOP\Laba2(LINQ)\obj\Debug\№2.pdb

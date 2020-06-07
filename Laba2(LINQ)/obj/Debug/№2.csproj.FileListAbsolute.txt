@@ -1,0 +1,13 @@
+C:\Users\Екатерина\Documents\1Учеба\4 семестр\ООП\№2\№2\bin\Debug\№2.exe.config
+C:\Users\Екатерина\Documents\1Учеба\4 семестр\ООП\№2\№2\bin\Debug\№2.exe
+C:\Users\Екатерина\Documents\1Учеба\4 семестр\ООП\№2\№2\bin\Debug\№2.pdb
+C:\Users\Екатерина\Documents\1Учеба\4 семестр\ООП\№2\№2\obj\Debug\№2.csprojAssemblyReference.cache
+C:\Users\Екатерина\Documents\1Учеба\4 семестр\ООП\№2\№2\obj\Debug\№2.csproj.CoreCompileInputs.cache
+C:\Users\Екатерина\Documents\1Учеба\4 семестр\ООП\№2\№2\obj\Debug\№2.exe
+C:\Users\Екатерина\Documents\1Учеба\4 семестр\ООП\№2\№2\obj\Debug\№2.pdb
+C:\Users\hru\Desktop\№2\obj\Debug\№2.csprojResolveAssemblyReference.cache
+C:\Users\hru\Desktop\№2\obj\Debug\№2.exe
+C:\Users\hru\Desktop\№2\obj\Debug\№2.pdb
+C:\Users\hru\Desktop\№2\bin\Debug\№2.exe.config
+C:\Users\hru\Desktop\№2\bin\Debug\№2.exe
+C:\Users\hru\Desktop\№2\bin\Debug\№2.pdb

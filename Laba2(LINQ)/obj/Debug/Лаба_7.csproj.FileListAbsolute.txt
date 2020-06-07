@@ -1,0 +1,6 @@
+E:\Программирование\Лаба_7\bin\Debug\№2.exe.config
+E:\Программирование\Лаба_7\bin\Debug\№2.exe
+E:\Программирование\Лаба_7\bin\Debug\№2.pdb
+E:\Программирование\Лаба_7\obj\Debug\Лаба_7.csprojResolveAssemblyReference.cache
+E:\Программирование\Лаба_7\obj\Debug\№2.exe
+E:\Программирование\Лаба_7\obj\Debug\№2.pdb

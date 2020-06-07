@@ -1,0 +1,6 @@
+C:\Users\hru\Desktop\OOP\ЛР1\obj\Debug\Laba1.csprojResolveAssemblyReference.cache
+C:\Users\hru\Desktop\OOP\ЛР1\obj\Debug\ЛР1.exe
+C:\Users\hru\Desktop\OOP\ЛР1\obj\Debug\ЛР1.pdb
+C:\Users\hru\Desktop\OOP\ЛР1\bin\Debug\ЛР1.exe.config
+C:\Users\hru\Desktop\OOP\ЛР1\bin\Debug\ЛР1.exe
+C:\Users\hru\Desktop\OOP\ЛР1\bin\Debug\ЛР1.pdb

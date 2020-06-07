@@ -1,0 +1,7 @@
+C:\Users\vipki\Desktop\ЛР1\bin\Debug\ЛР1.exe.config
+C:\Users\vipki\Desktop\ЛР1\bin\Debug\ЛР1.exe
+C:\Users\vipki\Desktop\ЛР1\bin\Debug\ЛР1.pdb
+C:\Users\vipki\Desktop\ЛР1\obj\Debug\ЛР1.csprojAssemblyReference.cache
+C:\Users\vipki\Desktop\ЛР1\obj\Debug\ЛР1.csproj.CoreCompileInputs.cache
+C:\Users\vipki\Desktop\ЛР1\obj\Debug\ЛР1.exe
+C:\Users\vipki\Desktop\ЛР1\obj\Debug\ЛР1.pdb
