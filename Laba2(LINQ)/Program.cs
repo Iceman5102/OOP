@@ -55,7 +55,7 @@ namespace laba2
             Console.WriteLine("\n\nОтфильтровать по коллекции пользователей и объёму оперативной памяти: ");
             computerQuery =
                 from computer in ListExsampleOfComputer
-                where (computer.UsersOfSystem.Contains("Рогожина") && computer.amountOfRAM > 2)
+                where (computer.UsersOfSystem.Contains("Хрулев") && computer.amountOfRAM > 2)
                 select computer;
             foreach (var i in computerQuery)
             {
@@ -81,7 +81,7 @@ namespace laba2
             } // Вывод в консоль
 
             Console.WriteLine("\n\nОтфильтровать по коллекции пользователей и объёму оперативной памяти: ");
-            computerQuery = ListExsampleOfComputer.Where(c => c.UsersOfSystem.Contains("Рогожина") && c.amountOfRAM > 2);
+            computerQuery = ListExsampleOfComputer.Where(c => c.UsersOfSystem.Contains("Хрулев") && c.amountOfRAM > 2);
             foreach (var i in computerQuery)
             {
                 Console.WriteLine(i.ComputerInfo());
@@ -203,7 +203,7 @@ namespace laba2
         #region Задание 6
         public static void task6()
         {
-            string str = make_without_russian_letter("Ekaterina Рогожина");
+            string str = make_without_russian_letter("Dmitry Хрулев");
             Console.WriteLine(str);
         }
         
